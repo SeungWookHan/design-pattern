@@ -1,4 +1,4 @@
-class HashTagPrinter {
+export default class HashTagPrinter {
   constructor() {
     this.textArr = [];
   }
