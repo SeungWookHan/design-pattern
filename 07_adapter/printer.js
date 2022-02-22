@@ -1,9 +1,9 @@
-class Printer {
+export default class Printer {
   constructor() {
     this.textArr = [];
   }
 
-  pushText(test) {
+  pushText(text) {
     this.textArr.push(text);
   }
 
