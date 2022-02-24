@@ -1,4 +1,4 @@
-class HashTagAdapter {
+export default class HashTagAdapter {
   constructor(hashTagPrinter) {
     this.printer = hashTagPrinter
   }
